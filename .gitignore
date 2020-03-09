@@ -1,0 +1,5 @@
+beego-api-generator-example
+.idea
+swagger/
+routers/commentsRouter*
+lastupdate.tmp
